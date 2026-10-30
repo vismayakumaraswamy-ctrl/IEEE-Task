@@ -1,0 +1,16 @@
+[
+    {
+        "algorithm": "AES-256-GCM",
+        "nonce_hex": "5f1f8a1fc5a8472752d6a494",
+        "ciphertext_hex": "5c0e7fd0a73051f19fec6ff70a9c8f8d64a68491"
+    },
+    {
+        "algorithm": "AES-256-GCM",
+        "nonce_hex": "8b9efeefe3e27e28a53652ec",
+        "ciphertext_hex": "ef769ebe8f2a4c198acb843e63f0f45afdbba28fd536a987238c7f3200ab1b660300d91923fe"
+    },
+    {
+        "algorithm": "RSA-2048-OAEP-SHA256",
+        "ciphertext_hex": "b49c6eaa88e8500656493004c2bcc9bc237916b7de546cc813c8b3934ee6b5dc6d1bdeb8bb487e1aeb50f74a570c0817a733e26ac7d71e78cd779d0e943404881c8e86572440c1bfeeeeaede848b52684f8c161b8ebc04dc9fa48dbe19f4615827972e2a1690207275c32e37ad913dcd0fafa0f90a7122f8179f4bdb634f5619a6340a59953d6ce06fd7c1e8816496eec8858720a099de1453011a1a3c986d9fe5f876f688610299ca25d6678ecdc5b3dcaea46bb797f0ffef7f9e1ff3f7a8cb49c60b2c6827cf0a9eed9b96ff10cb871334d97ca21084eb2c14c10ae5d2b5f146d77dee01ed686e522972fc9d66d4aeaa3c74bd90c8aca3d64a8da31737e0ba"
+    }
+]
